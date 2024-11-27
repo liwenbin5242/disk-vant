@@ -1,0 +1,58 @@
+{
+  "id": "4726386",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "21721547",
+      "name": "文件类型-标准图-记事本",
+      "font_class": "wenjianleixing-biaozhuntu-jishiben",
+      "unicode": "e6a4",
+      "unicode_decimal": 59044
+    },
+    {
+      "icon_id": "21721550",
+      "name": "文件类型-标准图-视频文件",
+      "font_class": "wenjianleixing-biaozhuntu-shipinwenjian",
+      "unicode": "e6a5",
+      "unicode_decimal": 59045
+    },
+    {
+      "icon_id": "21721551",
+      "name": "文件类型-标准图-文件夹",
+      "font_class": "wenjianleixing-biaozhuntu-wenjianjia",
+      "unicode": "e6a6",
+      "unicode_decimal": 59046
+    },
+    {
+      "icon_id": "21721552",
+      "name": "文件类型-标准图-图片文件",
+      "font_class": "wenjianleixing-biaozhuntu-tupianwenjian",
+      "unicode": "e6a7",
+      "unicode_decimal": 59047
+    },
+    {
+      "icon_id": "21721553",
+      "name": "文件类型-标准图-未知文件",
+      "font_class": "wenjianleixing-biaozhuntu-weizhiwenjian",
+      "unicode": "e6a8",
+      "unicode_decimal": 59048
+    },
+    {
+      "icon_id": "21721558",
+      "name": "文件类型-标准图-声音文件",
+      "font_class": "wenjianleixing-biaozhuntu-shengyinwenjian",
+      "unicode": "e6a9",
+      "unicode_decimal": 59049
+    },
+    {
+      "icon_id": "22761828",
+      "name": "文件类型-程序",
+      "font_class": "chengxu",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    }
+  ]
+}
